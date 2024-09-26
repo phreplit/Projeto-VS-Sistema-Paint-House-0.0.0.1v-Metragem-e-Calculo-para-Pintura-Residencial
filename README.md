@@ -4,6 +4,6 @@
 
 Software desenvolvido em C Sharp com library Windows Forms, desenvolvido para Metragem e Calculo para Pintura Residencial, no software é possível calcular o metro quadrado de uma parede, saber a quantidade de latas para pintar tantos M² e calcular quantas demãos são necessárias para pintar uma parede. 
 
-Necessário a instalação do .NET Framework versão minima v4.0 ou especifica v4.7.2.
+Necessário a instalação do .NET Framework versão minima e especifica v4.7.2 ou superior.
 
-Modelo de Template para Aplicação Windows Desktop com Windows Forms no Visual Studio.
+Modelo de projeto para Aplicação Windows Desktop com Windows Forms no Visual Studio.
